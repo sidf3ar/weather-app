@@ -1,4 +1,4 @@
-## Blank Canvas Weather
+##  Weather App
 ### An Obligatory Weather App
 
 This is a weather app made using the OpenWeatherMap API and jQuery. Animations were created using HTML5 Canvas. Icons are from Noun Project.
