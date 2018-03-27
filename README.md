@@ -12,7 +12,7 @@ Download the APK from this link <a href="https://drive.google.com/open?id=1oTzH6
 
 </strong>##ScreenShot</strong>
 <br>
-<a href="https://ibb.co/dmDvzn"><img src="https://preview.ibb.co/kMTjs7/weather_App.png" height="500" weight="300" alt="weather_App" border="0"></a>
+<a href="https://ibb.co/dmDvzn"><img src="https://preview.ibb.co/kMTjs7/weather_App.png" height="500" weight="250" alt="weather_App" border="0"></a>
 <br>
 I wanted to spend some time learning/using jQuery and HTML5 Canvas. This is basically my first app made using html canvas, so there's a lot of room for improvement.
 
