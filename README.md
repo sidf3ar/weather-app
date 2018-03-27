@@ -3,7 +3,9 @@
 
 This is a weather app made using the OpenWeatherMap API and jQuery. Animations were created using HTML5 Canvas. Icons are from Noun Project.
 <br>
-<strong>##Android App</strong><br>Download APK from this link <a hreh="https://drive.google.com/open?id=1oTzH6-25EnXc73RsNfSGBC-sP47zAf8c">Download APK</a>
+<strong>##Android App</strong>
+<br>
+Download APK from this link <a href="https://drive.google.com/open?id=1oTzH6-25EnXc73RsNfSGBC-sP47zAf8c">Download APK</a>
 <br>
 
 </strong>##ScreenShot</strong>
