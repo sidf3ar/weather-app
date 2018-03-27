@@ -5,7 +5,9 @@ This is a weather app made using the OpenWeatherMap API and jQuery. Animations w
 <br>
 <strong>##Android App</strong>
 <br>
-Download APK from this link <a href="https://drive.google.com/open?id=1oTzH6-25EnXc73RsNfSGBC-sP47zAf8c">Download APK</a>
+I later on ported this web app into a native android app using Apache Cordova Framework.
+<br>
+Download the APK from this link <a href="https://drive.google.com/open?id=1oTzH6-25EnXc73RsNfSGBC-sP47zAf8c">Download Now!</a>
 <br>
 
 </strong>##ScreenShot</strong>
