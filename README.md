@@ -10,7 +10,7 @@ I later on ported this web app into a native android app using Apache Cordova Fr
 Download the APK from this link <a href="https://drive.google.com/open?id=1oTzH6-25EnXc73RsNfSGBC-sP47zAf8c">Download Now!</a>
 <br>
 
-</strong>##ScreenShot</strong>
+<strong>##ScreenShot</strong>
 <br>
 <a href="https://ibb.co/dmDvzn"><img src="https://preview.ibb.co/kMTjs7/weather_App.png" height="500" weight="200" alt="weather_App" border="0"></a>
 <br>
