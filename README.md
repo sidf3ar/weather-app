@@ -18,4 +18,4 @@ Download the APK from this link <a href="https://drive.google.com/open?id=1oTzH6
 <br>
 I wanted to spend some time learning jQuery and HTML5 Canvas. This is basically my first app made using html canvas, so there's a lot of room for improvement.
 
-**Feel free to use this code, but please create your own API key from [OpenWeatherMap](https://openweathermap.org/) so it doesn't get blocked from overuse. Thank you.**
+**Feel free to use this code, but please create your own API key from [OpenWeatherMap](https://openweathermap.org/) so that it doesn't get blocked due to overuse. Thank you.**
