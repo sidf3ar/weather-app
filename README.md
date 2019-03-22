@@ -8,7 +8,9 @@ This is a weather app made using the OpenWeatherMap API and jQuery. Animations w
 Later on ported this web app into a native android app using Apache Cordova Framework (Phone Gap).
 <br>
 The android application does not asks for any permission. However, it might use the gps sometime to determine the current location.
+<br>
 Live here --> https://for3cast.herokuapp.com/
+<br>
 Download the APK from this link <a href="https://drive.google.com/open?id=1oTzH6-25EnXc73RsNfSGBC-sP47zAf8c">Download Now!</a>
 <br>
 
