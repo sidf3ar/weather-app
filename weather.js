@@ -95,7 +95,7 @@ GLoc = {
             var latitude = position.coords.latitude;
             var longitude = position.coords.longitude;
         }
-        g.searchQuery = 'http://api.openweathermap.org/data/2.5/weather?lat=' + latitude + '&lon=' + longitude + '&appid=5737c21e816fe038853b499d68c4daa4' +'&lang=' + g.lang;
+        g.searchQuery = 'https://api.openweathermap.org/data/2.5/weather?lat=' + latitude + '&lon=' + longitude + '&appid=5737c21e816fe038853b499d68c4daa4' +'&lang=' + g.lang;
 
         $.getJSON(g.searchQuery, function(data) {
             WeatherInfo.setWeatherData(data);
@@ -202,7 +202,7 @@ WeatherInfo = {
 
     getWeatherData: function(searchQuery) {
         if (w.searchLocationInput.val() !== '') {
-            w.searchQuery = 'http://api.openweathermap.org/data/2.5/weather?q=' + w.searchLocationInput.val() + '&appid=5737c21e816fe038853b499d68c4daa4' + '&lang=' + g.lang;
+            w.searchQuery = 'https://api.openweathermap.org/data/2.5/weather?q=' + w.searchLocationInput.val() + '&appid=5737c21e816fe038853b499d68c4daa4' + '&lang=' + g.lang;
             $.getJSON(w.searchQuery, function(data) {
                 WeatherInfo.setWeatherData(data);
             });
