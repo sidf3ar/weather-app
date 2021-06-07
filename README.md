@@ -7,7 +7,7 @@ This is a weather app made using the OpenWeatherMap API and jQuery. Animations w
 <br>
 Later on ported this web app into a native android app using Apache Cordova Framework (Phone Gap).
 <br>
-The android application does not asks for any permission. However, it might use the gps sometime to determine the current location.
+The android application does not asks for any permission. However, it might use the gps sometimes to determine the current location.
 <br>
 Live here --> http://for3cast.herokuapp.com/
 <br>
